@@ -1,0 +1,1 @@
+The code of this repository can be used to implement a LeNet-like neural network for analyzing hand written digits; the initial architecture is improved using Bayesian optimization and ensembling and the performances of the various approaches are analyzed and compared. A brief but complete analysis can be found in the pdf file of the repository.
